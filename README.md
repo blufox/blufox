@@ -33,8 +33,8 @@
   - **🗃 Project management:** • [Jira](https://www.atlassian.com/software/jira/) • [Notion](https://www.notion.so/)
   - **🗂 CI/CD:** • [Github Actions](https://github.com/features/actions) • [Docker](https://www.docker.com/) • [Kubernetes](https://kubernetes.io/)
 - 🧙‍♂️ **Coding pattern & principles:**
-  - **⚒ Patterns:** • [MVVM] • [MVC]
-  - **🗜 Principles:** • [Composition over Inheritance] • [YAGNI] • [SOLID]
+  - **⚒ Patterns:** • MVVM • MVC
+  - **🗜 Principles:** • Composition over Inheritance • YAGNI • SOLID
 
   
 ## Some interesting stats  
