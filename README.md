@@ -5,7 +5,7 @@
 - A FullStack developer based in **[Botswana](https://en.wikipedia.org/wiki/Botswana).**
 - Have 8+ years of hands-on experience in **Software Development** and a touch of experience in **Many programming concepts.**
 - Have built **Web** and **Mobile** apps targeting **multi-platform** ecosystems in **monolithic** architectures.
-- Have built **APIs**
+- Have built **APIs** with high traffic requiring performance balancing and security implementations.
 
 ## What I'm doing at the moment?
 
