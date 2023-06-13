@@ -25,7 +25,7 @@
 
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `PHP` • `Javascript` • `Python`
-  - **🔭 Frameworks:** • [Laravel](https://guides.rubyonrails.org/) • [NextJs](https://flask.palletsprojects.com/en/2.2.x/) • [Svelte](https://www.djangoproject.com/)
+  - **🔭 Frameworks:** • [Laravel](https://guides.rubyonrails.org/) • [NextJs](https://flask.palletsprojects.com/en/2.2.x/) • [Svelte](https://www.djangoproject.com/) • [Rust](https://www.rust-lang.org/)
   - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [PostgreSQL](https://www.postgresql.org/) • [Redis](https://redis.io/)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [GraphQL](https://git-scm.com/)
@@ -42,8 +42,8 @@
 
 <!--Github Stats-->
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blufox" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blufox"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blufox&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blufox&show_icons=true"/>
 </p>
 
 ## How to get in touch with me?
