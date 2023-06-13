@@ -3,14 +3,14 @@
 ## Who am I?
 
 - A FullStack developer based in **[Botswana](https://en.wikipedia.org/wiki/Botswana).**
-- Have 10+ years of hands-on experience in **Software Development** and a touch of experience in **Everything else.**
+- Have 8+ years of hands-on experience in **Software Development** and a touch of experience in **Many programming concepts.**
 - Have built **Web** and **Mobile** apps targeting **multi-platform** ecosystems in **monolithic** architectures.
 - Have built **APIs**
 
 ## What I'm doing at the moment?
 
-- 🏢 Consulting with **[Branded](https://branded/co.ke/)** as a **Senior Developer**.
-- 👨‍💻 Writing `Python`, `PHP`, `SQL`, `HTML`, `CSS`, `JavaScript`, `Svelte`, `Flutter`.
+- 🏢 Consulting with **[Myself](https://)** right now as a **Senior Developer**.
+- 👨‍💻 Writing `Python`, `PHP`, `SQL`, `HTML`, `CSS`, `JavaScript`.
 - 🌍 Not really active online, just Github mostly.
 - 📚 Currently learning about **LLMs**, **Large Systems Architectures**, and **Blockchain**.
 
@@ -19,13 +19,12 @@
 - 🖥 **Front-end:**
   - **📜 Languages:** • `JavaScript` • `HTML` • `CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:** • [Tailwind](https://tailwindcss.com/)
-    - **🌐 Web:** • [Bootstrap](https://getbootstrap.com/)
+    - **🌐 Web:** • [Tailwind](https://tailwindcss.com/) • [Bootstrap](https://getbootstrap.com/)
     - **🌐 Mobile:** • [Flutter](https://flutter.dev/)
 
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `PHP` • `Javascript` • `Python`
-  - **🔭 Frameworks:** • [Laravel](https://guides.rubyonrails.org/) • [NextJs](https://flask.palletsprojects.com/en/2.2.x/) • [Svelte](https://www.djangoproject.com/) • [Rust](https://www.rust-lang.org/)
+  - **🔭 Frameworks:** • [Laravel](https://laravel.com/) • [NextJs](https://nextjs.org/) • [Svelte](https://svelte.dev/) • [Rust](https://www.rust-lang.org/)
   - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [PostgreSQL](https://www.postgresql.org/) • [Redis](https://redis.io/)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [GraphQL](https://git-scm.com/)
