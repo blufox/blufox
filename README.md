@@ -17,7 +17,7 @@
 ## What my skill set looks like?
 
 - 🖥 **Front-end:**
-  - **📜 Languages:** • `JavaScript` • `HTML` • `CSS`
+  - **📜 Languages:** • `JavaScript` • `Dart` • `HTML` • `CSS`
   - **🔬 Frameworks:**  
     - **🌐 Web:** • [Tailwind](https://tailwindcss.com/) • [Bootstrap](https://getbootstrap.com/)
     - **🌐 Mobile:** • [Flutter](https://flutter.dev/)
