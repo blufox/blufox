@@ -19,12 +19,12 @@
 - 🖥 **Front-end:**
   - **📜 Languages:** • `JavaScript` • `Dart` • `HTML` • `CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:** • [Tailwind](https://tailwindcss.com/) • [Bootstrap](https://getbootstrap.com/) • [NextJs](https://nextjs.org/) • [Svelte](https://svelte.dev/) • [Astro](https://astro.build/) 
+    - **🌐 Web:** • [Tailwind](https://tailwindcss.com/) • [Bootstrap](https://getbootstrap.com/) • [Svelte](https://svelte.dev/) • [Astro](https://astro.build/) 
     - **🌐 Mobile:** • [Flutter](https://flutter.dev/)
 
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `PHP` • `Javascript` • `Python`
-  - **🔭 Frameworks:** • [Laravel](https://laravel.com/) • [Rust](https://www.rust-lang.org/) • [FastAPI](https://fastapi.tiangolo.com/)
+  - **🔭 Frameworks:** • [Laravel](https://laravel.com/) • [Rust](https://www.rust-lang.org/) • [FastAPI](https://fastapi.tiangolo.com/) • [NextJs](https://nextjs.org/)
   - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [PostgreSQL](https://www.postgresql.org/) • [Redis](https://redis.io/)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [GraphQL](https://git-scm.com/)
