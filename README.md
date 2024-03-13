@@ -9,7 +9,7 @@
 
 ## What I'm doing at the moment?
 
-- 🏢 Consulting with **[Myself](https://)** right now as a **Senior Developer**.
+- 🏢 Consulting with **[Forgotten Sands Inc](https://forgottensands.ink)** right now as a **Senior Developer**.
 - 👨‍💻 Writing `Python`, `PHP`, `SQL`, `HTML`, `CSS`, `JavaScript`.
 - 🌍 Not really active online, just Github mostly.
 - 📚 Currently learning about **LLMs**, **Large Systems Architectures**, and **Blockchain**.
@@ -19,7 +19,7 @@
 - 🖥 **Front-end:**
   - **📜 Languages:** • `JavaScript` • `Dart` • `HTML` • `CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:** • [Tailwind](https://tailwindcss.com/) • [Bootstrap](https://getbootstrap.com/) • [Svelte](https://svelte.dev/) • [Astro](https://astro.build/) 
+    - **🌐 Web:** • [Tailwind](https://tailwindcss.com/) • [Bootstrap](https://getbootstrap.com/) • [Svelte](https://svelte.dev/) 
     - **🌐 Mobile:** • [Flutter](https://flutter.dev/)
 
 - 🗄️ **Back-end:**
