@@ -41,8 +41,8 @@
 
 <!--Github Stats-->
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blufox&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blufox&show_icons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blufox&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=blufox&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## How to get in touch with me?
