@@ -42,7 +42,7 @@
 <!--Github Stats-->
 <p float="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=blufox&theme=radical" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=blufox&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img  alt="blufox's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/blufox?cardType=level-alternate&theme=radical&preferLogin=false" />
 </p>
 
 ## How to get in touch with me?
