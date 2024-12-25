@@ -41,8 +41,7 @@
 
 <!--Github Stats-->
 <p float="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blufox&theme=radical" alt="GitHub Streak" />
-<img  alt="blufox's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/blufox?cardType=level-alternate&theme=merko&preferLogin=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blufox&theme=merko" alt="GitHub Streak" />
 <img  alt="blufox's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/blufox?cardType=octocat&theme=merko&preferLogin=false" />
 </p>
 
